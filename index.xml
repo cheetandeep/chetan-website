@@ -5,7 +5,26 @@
     <link>https://chetand.com/</link>
     <description>Recent content on Chetan Singh</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://chetand.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://chetand.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogs</title>
+      <link>https://chetand.com/blog/</link>
+      <pubDate>Fri, 11 Feb 2022 08:52:57 -0500</pubDate>
+      
+      <guid>https://chetand.com/blog/</guid>
+      <description>2022 Coming Soon</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://chetand.com/about/</link>
+      <pubDate>Fri, 11 Feb 2022 08:52:37 -0500</pubDate>
+      
+      <guid>https://chetand.com/about/</guid>
+      <description>Hey there! I&amp;rsquo;m Chetan and my story is of an immigrant who got a chance to live and work in three different countries around the world and finally decided to settle down in Toronto, Canada.
+I work as a Cloud consultant and specialize in multi cloud architecture and automation. I help organizations and people embrace their cloud journey.
+For the past 12 years I have been working with organizations of different shapes and sizes ranging from an early stage startup to a well established Enterprise operating in different domains - fintech, security, automaker, telecom, banking.</description>
+    </item>
+    
   </channel>
 </rss>
