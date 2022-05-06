@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Chetan Singh</title>
+    <link>https://chetand.com/tags/aws/</link>
+    <description>Recent content in AWS on Chetan Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2022 09:12:29 -0400</lastBuildDate><atom:link href="https://chetand.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS IAM</title>
+      <link>https://chetand.com/posts/aws-iam/</link>
+      <pubDate>Fri, 06 May 2022 09:12:29 -0400</pubDate>
+      
+      <guid>https://chetand.com/posts/aws-iam/</guid>
+      <description>Through this blog post series I&amp;rsquo;ll talk about organizing AWS IAM following industry best practices and AWS recommendations. This series will also cover centralizing identity management and integrating AWS SSO with Gsuite. Thus, helping organizations and teams manage their IAM easily and more efficiently.
+The series will talk about the following services and technologies
+ AWS Organizations AWS SSO Gsuite  </description>
+    </item>
+    
+  </channel>
+</rss>

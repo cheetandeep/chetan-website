@@ -1,0 +1,59 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Chetan Singh</title>
+        <link>https://chetand.com/posts/</link>
+        <description>Recent content in Posts on Chetan Singh</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 06 May 2022 09:12:29 -0400</lastBuildDate>
+        <atom:link href="https://chetand.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>AWS IAM</title>
+            <link>https://chetand.com/posts/aws-iam/</link>
+            <pubDate>Fri, 06 May 2022 09:12:29 -0400</pubDate>
+            
+            <guid>https://chetand.com/posts/aws-iam/</guid>
+            <description>Through this blog post series I&amp;rsquo;ll talk about organizing AWS IAM following industry best practices and AWS recommendations. This series will also cover centralizing identity management and integrating AWS SSO with Gsuite. Thus, helping organizations and teams manage their IAM easily and more efficiently.
+The series will talk about the following services and technologies
+ AWS Organizations AWS SSO Gsuite  </description>
+            <content type="html"><![CDATA[<p>Through this blog post series I&rsquo;ll talk about organizing AWS IAM following industry best practices and AWS recommendations. This series will also cover centralizing identity management and integrating AWS SSO with Gsuite. Thus, helping organizations and teams manage their IAM easily and more efficiently.</p>
+<p>The series will talk about the following services and technologies</p>
+<ul>
+<li>AWS Organizations</li>
+<li>AWS SSO</li>
+<li>Gsuite</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>GCP Chaos Engineering</title>
+            <link>https://chetand.com/posts/gcp-chaos-engineering/</link>
+            <pubDate>Sun, 06 Mar 2022 09:00:04 -0400</pubDate>
+            
+            <guid>https://chetand.com/posts/gcp-chaos-engineering/</guid>
+            <description>This will be a series of blog posts where I&amp;rsquo;ll share my experience working with different Chaos Engineering platforms available in the market and their use cases with Google Cloud Platform. I&amp;rsquo;ll talk about the following platforms
+ Litmus Gremlin Chaos Mesh  </description>
+            <content type="html"><![CDATA[<p>This will be a series of blog posts where I&rsquo;ll share my experience working with different Chaos Engineering platforms available in the market and their use cases with Google Cloud Platform. I&rsquo;ll talk about the following platforms</p>
+<ul>
+<li><a href="https://github.com/litmuschaos/litmus">Litmus</a></li>
+<li><a href="https://github.com/gremlin">Gremlin</a></li>
+<li><a href="https://github.com/chaos-mesh/chaos-mesh">Chaos Mesh</a></li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>GCP Networking Best Practices</title>
+            <link>https://chetand.com/posts/gcp-networking-best-practices/</link>
+            <pubDate>Mon, 06 Dec 2021 09:29:22 -0400</pubDate>
+            
+            <guid>https://chetand.com/posts/gcp-networking-best-practices/</guid>
+            <description>This blog post series will cover real life use cases while designing networks in GCP cloud. I&amp;rsquo;ll also talk about networking best practices for GKE(Google Kubernetes Engine)</description>
+            <content type="html"><![CDATA[<p>This blog post series will cover real life use cases while designing networks in GCP cloud. I&rsquo;ll also talk about networking best practices for GKE(Google Kubernetes Engine)</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
