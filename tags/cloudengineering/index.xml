@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chetan Singh</title>
-    <link>https://chetand.com/</link>
-    <description>Recent content on Chetan Singh</description>
+    <title>cloudengineering on Chetan Singh</title>
+    <link>https://chetand.com/tags/cloudengineering/</link>
+    <description>Recent content in cloudengineering on Chetan Singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 May 2022 09:12:29 -0400</lastBuildDate><atom:link href="https://chetand.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 09:12:29 -0400</lastBuildDate><atom:link href="https://chetand.com/tags/cloudengineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS IAM</title>
       <link>https://chetand.com/posts/aws-iam/</link>
@@ -26,17 +26,6 @@ The series will talk about the following services and technologies
       <guid>https://chetand.com/posts/gcp-chaos-engineering/</guid>
       <description>This will be a series of blog posts where I&amp;rsquo;ll share my experience working with different Chaos Engineering platforms available in the market and their use cases with Google Cloud Platform. I&amp;rsquo;ll talk about the following platforms
  Litmus Gremlin Chaos Mesh  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://chetand.com/about/</link>
-      <pubDate>Fri, 11 Feb 2022 08:52:37 -0500</pubDate>
-      
-      <guid>https://chetand.com/about/</guid>
-      <description>Hey there! I&amp;rsquo;m Chetan and my story is of an immigrant who got a chance to live and work in three different countries around the world and finally decided to settle down in Toronto, Canada.
-I work as a Cloud consultant and specialize in multi cloud architecture and automation. I help organizations and people embrace their cloud journey.
-For the past 12 years I have been working with organizations of different shapes and sizes ranging from an early stage startup to a well established Enterprise operating in different domains - fintech, security, automaker, telecom, banking.</description>
     </item>
     
     <item>

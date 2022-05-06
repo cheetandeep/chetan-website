@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Chetan Singh</title>
+    <link>https://chetand.com/tags/untagged/</link>
+    <description>Recent content in untagged on Chetan Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2022 08:47:17 -0400</lastBuildDate><atom:link href="https://chetand.com/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://chetand.com/posts/my-first-post/</link>
+      <pubDate>Fri, 06 May 2022 08:47:17 -0400</pubDate>
+      
+      <guid>https://chetand.com/posts/my-first-post/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>
